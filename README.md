@@ -1,2 +1,2 @@
 # AUDIO-TO-SIGN-LANGUAGE-TRANSLATOR-USING-PYTHON
-A Python based academic project developed to solve real-world problems using modern technologies. This repository contains the source code, documentation, and implementation details of the project.
+A Python-based B.tech major project that converts speech input into sign language representations, enabling more accessible communication for deaf and hard-of-hearing communities.
